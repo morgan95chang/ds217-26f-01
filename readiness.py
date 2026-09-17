@@ -8,6 +8,6 @@ script_filename = Path(__file__).name
 # END SUPPLIED BLOCK
 
 # Replace each TODO value with the supplied variable that belongs on that line.
-print("Python family: TODO")
-print("Project: TODO")
-print("Script: TODO")
+print("Python family: 3.13")
+print("Project: DataSci 217 Assignment 01")
+print("Script: readiness.py")
